@@ -1,0 +1,23 @@
+name: movie_sentiment_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - nltk
+  - spacy
+  - jupyter
+  - notebook
+  - wordcloud
+  - pip
+  - pip:
+      - transformers
+      - torch
+      - tqdm
+      - streamlit
+      - joblib
