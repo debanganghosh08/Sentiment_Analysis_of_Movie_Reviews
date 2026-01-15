@@ -18,13 +18,14 @@ in a structured and reproducible manner.
 ---
 
 ## 📂 Project Structure
-
-
+<img width="2182" height="2934" alt="image" src="https://github.com/user-attachments/assets/16b8116c-b69f-4db6-b420-fb4f01ccf24f" />
+---
+<img width="2232" height="2124" alt="image" src="https://github.com/user-attachments/assets/a1aafe77-07d6-4f74-8632-7c1f78b3caaa" />
 
 ---
 
 ## 🔄 Project Workflow
-
+<img width="1998" height="1747" alt="image" src="https://github.com/user-attachments/assets/c355ee3e-cba2-4009-85fb-1ad6b8f3a4a4" />
 
 ---
 
